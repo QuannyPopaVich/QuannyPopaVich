@@ -1,5 +1,8 @@
-git config --global user.name quanny
+git config --global user.name "quanny"
 git config --global user.email charlie.horb@gmail.com
+git config --global init.defaultBranch main
+git config --global color.ui auto
+
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
